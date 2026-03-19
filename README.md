@@ -1,18 +1,10 @@
 # Buttercup Desktop
 > Buttercup for Desktop - Mac, Linux and Windows
 
-[![Buttercup](https://cdn.rawgit.com/buttercup-pw/buttercup-assets/6582a033/badge/buttercup-slim.svg)](https://buttercup.pw) ![Latest version](https://img.shields.io/github/tag/buttercup/buttercup-desktop.svg?label=latest) [![Chat securely on Keybase](https://img.shields.io/badge/keybase-bcup-blueviolet)](https://keybase.io/team/bcup)
+[![Buttercup](https://cdn.rawgit.com/buttercup-pw/buttercup-assets/6582a033/badge/buttercup-slim.svg)](https://buttercup.pw) ![Latest version](https://img.shields.io/github/tag/azadar/buttercup-desktop-community.svg?label=latest) [![Chat securely on Keybase](https://img.shields.io/badge/keybase-bcup-blueviolet)](https://keybase.io/team/bcup)
 
-<img width="1406" alt="Buttercup Desktop screenshot" src="https://github.com/buttercup/buttercup-desktop/assets/3869469/1320b163-3e5c-4423-a4fd-8de7ffad2a0e">
-²
+<img width="1406" alt="Buttercup Desktop screenshot" src="https://github.com/azadar/buttercup-desktop-community/assets/3869469/1320b163-3e5c-4423-a4fd-8de7ffad2a0e">
 
----
-
-⚠️ **Project Closure** ⚠️
-
-The Buttercup project has come to an end, and these repositories are in transition to becoming public archives. No public-facing resources will be removed, wherever possible. Please do not create issues or PRs - they will unfortunately be ignored. Discussion can be found [here](https://github.com/buttercup/buttercup-desktop/discussions/1395), and explanation [here](https://gist.github.com/perry-mitchell/43ebfcec4d874b77a704be1d4f2262e6).
-
----
 
 ## About
 
@@ -38,7 +30,7 @@ _It is very important to note that no one associated with Buttercup will ever re
 
 ### Versions
 
-The current stable version is **2**. We recommend upgrading if you're still on v1, as it is no longer being actively maintained. You can still browse the v1 source and documentation [here](https://github.com/buttercup/buttercup-desktop/tree/v1).
+The current stable version is **2**. We recommend upgrading if you're still on v1, as it is no longer being actively maintained. You can still browse the v1 source and documentation [here](https://github.com/azadar/buttercup-desktop-community/tree/v1).
 
 Buttercup is built on Node 20 LTS - no other platform is officially supported.
 
@@ -56,7 +48,7 @@ Buttercup Desktop is officially supported on:
 
 Buttercup is also available for [Arch via the AUR](https://aur.archlinux.org/packages/buttercup-desktop/). This release channel is maintained by our community.
 
-Some Arch users have reported the occasional segfault - if you experience this please try [this solution](https://github.com/buttercup/buttercup-desktop/issues/643#issuecomment-413852760) before creating an issue.
+Some Arch users have reported the occasional segfault - if you experience this please try [this solution](https://github.com/azadar/buttercup-desktop-community/issues/643#issuecomment-413852760) before creating an issue.
 
 #### 32bit builds (x86)
 
@@ -138,7 +130,7 @@ _Note that logs for portable Windows applications will be written to the same di
 
 ## Published Applications
 
-You can view the current releases on the [Buttercup Desktop releases page](https://github.com/buttercup/buttercup-desktop/releases). Under each release are some assets - the various binaries and installers for each platform Buttercup supports. When installing or downloading, make sure to pick the right operating system and architecture for your machine.
+You can view the current releases on the [Buttercup Desktop releases page](https://github.com/azadar/buttercup-desktop-community/releases). Under each release are some assets - the various binaries and installers for each platform Buttercup supports. When installing or downloading, make sure to pick the right operating system and architecture for your machine.
 
 _Note that at this time, Buttercup only supports x64 (64 bit) machines._
 
@@ -178,7 +170,7 @@ To add support for a language, make sure to add the translations for our [**vaul
 #### Contributions
 
 This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="https://github.com/buttercup/buttercup-desktop/graphs/contributors"><img src="https://opencollective.com/buttercup/contributors.svg?width=890" /></a>
+<a href="https://github.com/azadar/buttercup-desktop-community/graphs/contributors"><img src="https://opencollective.com/buttercup/contributors.svg?width=890" /></a>
 
 We'd also like to thank:
 

@@ -35,7 +35,7 @@ if ("BUTTERCUP_HOME_DIR" in process.env) {
 }
 
 const CONFIG_PATH = path.join(__envPaths.config, "desktop.config.json");
-export const LOG_FILENAME = "buttercup-desktop.log";
+export const LOG_FILENAME = "buttercup-desktop-community.log";
 export const LOG_PATH = path.join(__envPaths.log, LOG_FILENAME);
 export const VAULTS_BACKUP_PATH = path.join(__envPaths.data, "backup");
 const VAULTS_CACHE_PATH = path.join(__envPaths.temp, "vaults-offline.cache.json");
